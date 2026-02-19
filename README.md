@@ -1,4 +1,9 @@
-# Scale institutional knowledge using Copilot Spaces
+Create an issue in the repository https://www.github.com/MicrosoftLearning/mslearn-github/skills-scale-institutional-knowledge-using-copilot-spaces12 for a README for OctoAcme Project Management Docs that has links to all the docs in the docs folder.
+- The README should also contain a brief summary of the project management processes used by OctoAcme.
+- - Make sure README, project management processes summary, and links are in the title of the issue.
+  - - Use the "Add Content to Project Management Process Docs" template.
+    - - Which process document do you want to update? "<new document>"
+      - - Fill in the other fields# Scale institutional knowledge using Copilot Spaces
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
