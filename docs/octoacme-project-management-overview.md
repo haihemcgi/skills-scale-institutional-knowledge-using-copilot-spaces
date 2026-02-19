@@ -44,3 +44,5 @@ Applies to all cross-functional projects that deliver product features, services
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
+- - Create a 3-4 paragraph summary of the project management processes used by OctoAcme based on the documentation in the docs folder of this repository.
+  - - Focus on key workflows, personas/roles, communication strategies, and quality assurance practices.
